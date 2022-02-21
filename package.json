@@ -1,0 +1,15 @@
+{
+  "name": "onlineapp",
+  "version": "1.0.0",
+  "description": "this is simple web app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ravi Tambade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
